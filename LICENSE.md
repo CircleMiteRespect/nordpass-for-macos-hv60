@@ -1,4 +1,4 @@
-# 
+# Enhance NordPass for macOS with NordPass for macOS custom Plugin: password-audit & password-generator, the #1 plugin. Includes password-audit and password-generator for a safer
 
 
 
